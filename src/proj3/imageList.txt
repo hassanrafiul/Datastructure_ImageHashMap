@@ -1,0 +1,5 @@
+me_and_sparky.png animals people
+house.jpg buildings
+camping.png landscapes people flowers
+farm.png landscapes buildings animals
+classroom.jpg people
